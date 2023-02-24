@@ -1,7 +1,7 @@
 <h1 align="center"> Cartão de embarque </h1>
 
 <p align="center">
-Projeto de uma simples calculadora usando, apenas versão de testes. <br/>
+  cartão de embarque, apenas versão de testes. <br/>
 </p>
 
 <p align="center">
